@@ -22,7 +22,7 @@ Application settings
     Name:   PHP_FCGI_MAX_REQUESTS
     Value:  10000
 
-Disable built-in PHP in General Settings
+Disable built-in PHP in General Settings and set Platform to 64 Bit
 
 Enjoy!
 
